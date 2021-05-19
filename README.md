@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhaskor-jyoti-sarmah
 - 👀 I’m interested in Learning new Technologies
-- 🌱 I’m currently learning Machine Learning, Spring Microservices, AWS Assosiate Developer
+- 🌱 I’m currently learning Machine Learning, GoLang, Flutter & Google Cloud
 - 💞️ I’m looking to collaborate on product development
-- 📫 How to reach me - +91-7576847577 , bhaskor88@gmail.com
+- 📫 How to reach me - +91-7002402636|+91-7576847577, bhaskor88@gmail.com

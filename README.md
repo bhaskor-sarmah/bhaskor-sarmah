@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhaskor-jyoti-sarmah
+- 👋 Hi, I’m Bhaskor Jyoti Sarmah
 - 👀 I’m interested in Learning new Technologies
 - 🌱 I’m currently learning Machine Learning, Apache Spark, GoLang, Kubernetes & Cloud Technologies
 - 💞️ I’m looking to collaborate on product development

@@ -8,4 +8,3 @@
 
 📫 How to reach me:
 📧 Email: bhaskor88@gmail.com
-📞 Phone: +91-7002402636 | +91-7576847577
